@@ -1,0 +1,16 @@
+.tab{
+    -fx-background-color: #FF6D60;
+}
+
+.tab-button{
+    -fx-background-color: inherit;
+    -fx-padding: 14px 16px;
+}
+
+.tab-button:hover {
+    -fx-background-color: #F3E99F;
+}
+
+.tab-button:selected {
+    -fx-background-color: #F7D060;
+}
