@@ -48,7 +48,3 @@ This structure ensures modular, maintainable, and scalable code.
 - **Java**
 - **MVC Architecture**
 
-
----
-
-## 📂 Project Structure
